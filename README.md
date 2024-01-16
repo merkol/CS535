@@ -1,2 +1,2 @@
 # CS535
-Multicore Programming
+Image Processing Algorithms Hardware Acceleration Course Project
